@@ -63,7 +63,7 @@ body {
 
 /*  RESPONSIVE NAVBAR  */
 
-    @media screen and (max-width: 1200px) {
+    @media screen and (max-width: 1920px) {
         .navbar {
             padding: 0 2rem;
         }
